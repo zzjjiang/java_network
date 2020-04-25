@@ -1,4 +1,4 @@
-package com.demo.netty.nettybasic;
+package com.jone.basic;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

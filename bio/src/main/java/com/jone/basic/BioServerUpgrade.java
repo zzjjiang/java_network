@@ -1,4 +1,4 @@
-package com.demo.bio;
+package com.jone.basic;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
